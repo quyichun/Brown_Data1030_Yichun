@@ -34,7 +34,7 @@ The following models were evaluated:
 
 ### Evaluation Metric
 - **Root Mean Squared Error (RMSE)**: Used to measure prediction accuracy.
-- 
+
 Required library versions:
 
 - python=3.10.5
